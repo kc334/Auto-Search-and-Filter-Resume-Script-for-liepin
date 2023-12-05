@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.common.exceptions import ElementClickInterceptedException
-from resume_gpt_evaluator import evaluate_resume
+from resume_gpt_evaluator2 import evaluate_resume
 
 def start(test):
     # 存储登录后状态的cookie  的文件 cookie.pickle

@@ -11,3 +11,7 @@
 然后运行test_gpt_api，测试发送和接收api是否正常和检查gpt筛选结果
 
 ### 5.hire.py包括3和4的整合，实现自动操作和自动筛选
+
+## Reference
+1. https://www.promptingguide.ai/applications/workplace_casestudy
+2. https://blog.csdn.net/weixin_44992225/article/details/130913379
